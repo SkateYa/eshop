@@ -1,11 +1,5 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png" />
-    <div>
-      <router-link to="/login">login</router-link>|
-      <router-link to="/index">index</router-link>
-    </div>
-
     <router-view></router-view>
   </div>
 </template>
